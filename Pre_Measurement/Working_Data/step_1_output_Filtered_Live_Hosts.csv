@@ -1,0 +1,94 @@
+URL,Provider,Continent,Country,City,Latitude,Longitude
+ap-southeast-1.ec2.cloudharmony.net,Amazon EC2,AS,SG,Ulu Bedok,1.3223000000000000309,103.94389999999999929
+ap-southeast-2.ec2.cloudharmony.net,Amazon EC2,OC,AU,Sydney,-33.859099999999997976,151.20019999999999527
+ap-northeast-1.ec2.cloudharmony.net,Amazon EC2,AS,JP,Tokyo,35.685000000000002273,139.75139999999998962
+ap-northeast-2.ec2.cloudharmony.net,Amazon EC2,AS,KR,Incheon,37.456200000000002604,126.72880000000000677
+us-east-1.ec2.cloudharmony.net,Amazon EC2,NA,US,Ashburn,39.048099999999998032,-77.472800000000006546
+us-east-2a.ec2.cloudharmony.net,Amazon EC2,NA,US,Columbus,39.965299999999999158,-83.023499999999998523
+us-east-2b.ec2.cloudharmony.net,Amazon EC2,NA,US,Columbus,39.965299999999999158,-83.023499999999998523
+us-west-1.ec2.cloudharmony.net,Amazon EC2,NA,US,San Jose,37.338799999999999102,-121.89140000000000441
+us-west-2.ec2.cloudharmony.net,Amazon EC2,NA,US,Boardman,45.849099999999999967,-119.71429999999999438
+af-south-1.ec2.cloudharmony.net,Amazon EC2,AF,ZA,Cape Town,-33.925800000000002399,18.423200000000001352
+ap-east-1.ec2.cloudharmony.net,Amazon EC2,AS,HK,Hong Kong,22.249999999999999999,114.16670000000000583
+ap-south-1.ec2.cloudharmony.net,Amazon EC2,AS,IN,Mumbai,19.074799999999999755,72.885599999999996613
+sa-east-1.ec2.cloudharmony.net,Amazon EC2,SA,BR,Sao Paulo,-23.547499999999999431,-46.636099999999999
+me-south-1.ec2.cloudharmony.net,Amazon EC2,AS,BH,Manama,26.03330000000000055,50.549999999999997157
+ca-central-1.ec2.cloudharmony.net,Amazon EC2,NA,CA,Montreal,45.49949999999999761,-73.584800000000001318
+eu-central-1.ec2.cloudharmony.net,Amazon EC2,EU,DE,Frankfurt am Main,50.118800000000000237,8.6843000000000003524
+eu-west-1.ec2.cloudharmony.net,Amazon EC2,EU,IE,Dublin,53.333100000000001729,-6.2488999999999998991
+eu-west-2.ec2.cloudharmony.net,Amazon EC2,EU,GB,London,51.516399999999997307,-0.092999999999999999333
+eu-west-3.ec2.cloudharmony.net,Amazon EC2,EU,FR,Paris,48.860700000000001352,2.3281000000000000582
+eu-south-1.ec2.cloudharmony.net,Amazon EC2,EU,IT,Milan,45.464300000000001491,9.1895000000000006679
+eu-north-1.ec2.cloudharmony.net,Amazon EC2,EU,SE,Stockholm,59.333300000000001261,18.05000000000000071
+us-west1.gce.cloudharmony.net,Google,NA,US,The Dalles,45.599899999999998099,-121.18710000000000093
+us-west2-a.gce.cloudharmony.net,Google,NA,US,Los Angeles,34.054400000000001114,-118.24399999999999976
+us-west2-b.gce.cloudharmony.net,Google,NA,US,Los Angeles,34.054400000000001114,-118.24399999999999976
+us-west2-c.gce.cloudharmony.net,Google,NA,US,Los Angeles,34.054400000000001114,-118.24399999999999976
+us-west3.gce.cloudharmony.net,Google,NA,US,Salt Lake City,40.759199999999999874,-111.88750000000000283
+us-west4.gce.cloudharmony.net,Google,NA,US,Las Vegas,36.168500000000001648,-115.11639999999999872
+us-east1.gce.cloudharmony.net,Google,NA,US,North Charleston,32.860799999999997567,-79.974599999999995249
+us-east4.gce.cloudharmony.net,Google,NA,US,Washington,38.893900000000002138,-77.036500000000003749
+us-central1.gce.cloudharmony.net,Google,NA,US,Council Bluffs,41.261899999999997134,-95.860799999999997565
+northamerica-northeast1.gce.cloudharmony.net,Google,NA,CA,Montreal,45.49949999999999761,-73.584800000000001318
+southamerica-east1.gce.cloudharmony.net,Google,SA,BR,Sao Paulo,-23.547499999999999431,-46.636099999999999
+europe-west1.gce.cloudharmony.net,Google,EU,BE,Brussels,50.827399999999997247,4.3479999999999998649
+europe-west3.gce.cloudharmony.net,Google,EU,DE,Frankfurt am Main,50.118800000000000237,8.6843000000000003524
+europe-west6.gce.cloudharmony.net,Google,EU,CH,Zurich,47.36670000000000158,8.5500000000000007105
+europe-west2.gce.cloudharmony.net,Google,EU,GB,London,51.516399999999997307,-0.092999999999999999333
+europe-north1.gce.cloudharmony.net,Google,EU,FI,Lappeenranta,61.068100000000001157,28.173300000000001119
+australia-southeast1.gce.cloudharmony.net,Google,OC,AU,Sydney,-33.859099999999997976,151.20019999999999527
+asia-northeast1.gce.cloudharmony.net,Google,AS,JP,Tokyo,35.685000000000002273,139.75139999999998962
+asia-northeast2.gce.cloudharmony.net,Google,AS,JP,Osaka,34.685099999999998488,135.51359999999999672
+asia-northeast3.gce.cloudharmony.net,Google,AS,KR,Seoul,37.598500000000001364,126.97830000000000439
+asia-east1.gce.cloudharmony.net,Google,AS,TW,New Taipei,25.047799999999998733,121.53180000000000405
+asia-east2.gce.cloudharmony.net,Google,AS,HK,Central,22.279499999999998749,114.14600000000000079
+asia-southeast1.gce.cloudharmony.net,Google,AS,SG,Singapore,1.2928999999999999381,103.85469999999999402
+asia-southeast2.gce.cloudharmony.net,Google,AS,ID,Jakarta,-6.1741000000000001435,106.82959999999999922
+asia-south1.gce.cloudharmony.net,Google,AS,IN,Mumbai,19.074799999999999755,72.885599999999996613
+asia-east.azure.cloudharmony.net,Microsoft,AS,HK,Central,22.279499999999998749,114.14600000000000079
+asia-southeast.azure.cloudharmony.net,Microsoft,AS,SG,Singapore,1.2928999999999999381,103.85469999999999402
+japan-west.azure.cloudharmony.net,Microsoft,AS,JP,Osaka,34.685099999999998488,135.51359999999999672
+japan-east.azure.cloudharmony.net,Microsoft,AS,JP,Tokyo,35.685000000000002273,139.75139999999998962
+australia-east.azure.cloudharmony.net,Microsoft,OC,AU,Sydney,-33.859099999999997976,151.20019999999999527
+australia-central2.azure.cloudharmony.net,Microsoft,OC,AU,Canberra,-35.274399999999999978,149.12459999999998672
+australia-central.azure.cloudharmony.net,Microsoft,OC,AU,Perth,-31.947099999999998942,115.86469999999999913
+australia-southeast.azure.cloudharmony.net,Microsoft,OC,AU,Melbourne,-37.81589999999999918,144.96690000000000964
+india-south.azure.cloudharmony.net,Microsoft,AS,IN,Chennai,13.087799999999999656,80.278499999999993978
+india-central.azure.cloudharmony.net,Microsoft,AS,IN,Pune,18.519600000000000505,73.855400000000003047
+india-west.azure.cloudharmony.net,Microsoft,AS,IN,Mumbai,19.074799999999999755,72.885599999999996613
+korea-central.azure.cloudharmony.net,Microsoft,AS,KR,Seoul,37.598500000000001364,126.97830000000000439
+korea-south.azure.cloudharmony.net,Microsoft,AS,KR,Busan,35.100299999999997168,129.04419999999998936
+us-central.azure.cloudharmony.net,Microsoft,NA,US,Des Moines,41.601500000000001477,-93.612700000000003798
+us-east.azure.cloudharmony.net,Microsoft,NA,US,Washington,38.709499999999998465,-78.153899999999993041
+us-east2.azure.cloudharmony.net,Microsoft,NA,US,Boydton,36.653399999999997759,-78.375
+us-west.azure.cloudharmony.net,Microsoft,NA,US,San Jose,37.338799999999999102,-121.89140000000000441
+us-northcentral.azure.cloudharmony.net,Microsoft,NA,US,Chicago,41.848300000000001829,-87.651700000000005276
+us-southcentral.azure.cloudharmony.net,Microsoft,NA,US,San Antonio,29.422100000000000363,-98.492599999999995933
+brazil-south.azure.cloudharmony.net,Microsoft,SA,BR,Campinas,-22.90350000000000108,-47.056499999999999773
+canada-central.azure.cloudharmony.net,Microsoft,NA,CA,Toronto,43.664400000000000547,-79.419499999999999318
+canada-east.azure.cloudharmony.net,Microsoft,NA,CA,Quebec,46.794899999999998384,-71.246999999999999888
+us-westcentral.azure.cloudharmony.net,Microsoft,NA,US,Cheyenne,41.143700000000002605,-104.81170000000000186
+eu-north.azure.cloudharmony.net,Microsoft,EU,IE,Dublin,53.333100000000001729,-6.2488999999999998991
+eu-west.azure.cloudharmony.net,Microsoft,EU,NL,Amsterdam,52.375900000000001456,4.8974999999999999644
+uk-south.azure.cloudharmony.net,Microsoft,EU,GB,London,51.516399999999997307,-0.092999999999999999333
+uk-west.azure.cloudharmony.net,Microsoft,EU,GB,Cardiff,51.521000000000000797,-3.2036999999999999921
+france-central.azure.cloudharmony.net,Microsoft,EU,FR,Paris,48.860700000000001352,2.3281000000000000582
+france-south.azure.cloudharmony.net,Microsoft,EU,FR,Marseille,43.285400000000002762,5.3761000000000001008
+germany-westcentral.azure.cloudharmony.net,Microsoft,EU,DE,Frankfurt am Main,50.118800000000000237,8.6843000000000003524
+germany-north.azure.cloudharmony.net,Microsoft,EU,DE,Berlin,52.515500000000002954,13.406200000000000116
+switzerland-west.azure.cloudharmony.net,Microsoft,EU,CH,Geneva,46.195599999999998885,6.1481000000000003424
+switzerland-north.azure.cloudharmony.net,Microsoft,EU,CH,Zurich,47.36670000000000158,8.5500000000000007105
+norway-east.azure.cloudharmony.net,Microsoft,EU,NO,Oslo,59.918799999999997397,10.727899999999999991
+norway-west.azure.cloudharmony.net,Microsoft,EU,NO,Stavanger,58.966700000000003001,5.75
+southafrica-north.azure.cloudharmony.net,Microsoft,AF,ZA,Johannesburg,-26.230899999999998327,28.058299999999999131
+southafrica-west.azure.cloudharmony.net,Microsoft,AF,ZA,Cape Town,-33.925800000000002399,18.423200000000001352
+uae-central.azure.cloudharmony.net,Microsoft,AS,AE,Dubai,25.263300000000000976,55.30870000000000175
+uae-north.azure.cloudharmony.net,Microsoft,AS,AE,Dubai,25.263300000000000976,55.30870000000000175
+us-east-2.lightsail.cloudharmony.net,Amazon Lightsail,NA,US,Columbus,39.965299999999999158,-83.023499999999998523
+us-east-1.lightsail.cloudharmony.net,Amazon Lightsail,NA,US,Fairfax,38.875399999999999066,-77.385300000000000865
+ap-southeast-1.lightsail.cloudharmony.net,Amazon Lightsail,AS,SG,Singapore,1.2928999999999999381,103.85469999999999402
+ap-southeast-2.lightsail.cloudharmony.net,Amazon Lightsail,OC,AU,Sydney,-33.859099999999997976,151.20019999999999527
+ap-northeast-2.lightsail.cloudharmony.net,Amazon Lightsail,AS,KR,Incheon,37.456200000000002604,126.72880000000000677
+eu-west-1.lightsail.cloudharmony.net,Amazon Lightsail,EU,IE,Dublin,53.333100000000001729,-6.2488999999999998991
+eu-west-2.lightsail.cloudharmony.net,Amazon Lightsail,EU,GB,London,51.516399999999997307,-0.092999999999999999333
+eu-west-3.lightsail.cloudharmony.net,Amazon Lightsail,EU,FR,Paris,48.860700000000001352,2.3281000000000000582
