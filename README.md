@@ -52,7 +52,7 @@ This section will focus on latency results based on general connectivity to clou
 
 
     
-![png](README_files/README_16_0.png)
+![png](figures/README_16_0.png)
     
 
 
@@ -62,7 +62,7 @@ This region (NA) in particular has a high concentration of probes (~50%) used in
 
 
     
-![png](README_files/README_19_0.png)
+![png](figures/README_19_0.png)
     
 
 
@@ -76,7 +76,7 @@ This section will focus on hop-count results to cloud providers in both Germany 
 
 
     
-![png](README_files/README_24_0.png)
+![png](figures/README_24_0.png)
     
 
 
@@ -88,7 +88,7 @@ Figure shown below is a TraceMon path trace for the probes involved in this meas
 
 
     
-![png](README_files/README_26_0.png)
+![png](figures/README_26_0.png)
     
 
 
@@ -97,7 +97,7 @@ Figure shown below is a TraceMon path trace for the probes involved in this meas
 
 
     
-![png](README_files/README_28_0.png)
+![png](figures/README_28_0.png)
     
 
 
@@ -109,17 +109,17 @@ Figure shown below is a TraceMon path trace for the probes involved in this meas
 
 
     
-![png](README_files/README_30_0.png)
+![png](figures/README_30_0.png)
     
 
 
 
 ## Data and Files
 
-All measurement data and scripts can be found here - https://github.com/krthknrmnch/Starlink_Vs_Hardwired_RIPE_Atlas
+All measurement data and scripts can be found here - https://github.com/krthknrmnch/Starlink_Vs_Hardwired_RIPE_Atlas/tree/one_off
 
 Latency and Hop-count values were generated using RIPE Atlas' Sagan library. The library can be installed with ***pip***:
 
     pip install ripe.atlas.sagan
 
-After installation, please run ***sagan_cloud_connectivity.py*** located in Post_Measurement/Sagan_Analysis to reproduce values presented above.
+After installation, please run ***sagan_cloud_connectivity.py*** located in /Analysis to reproduce values presented above.
